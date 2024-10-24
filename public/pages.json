@@ -1,0 +1,23 @@
+[
+    {
+        "link": {"text": "Home", "url": "index.html"},
+        "pageTitle": "Vue.js Tutorial: Beginner to Front-End Developer - Envato tut++",
+        "pageHeader": "Hello Inventory System",
+        "content": "welcome to vuejs world",
+        "published": true
+    },
+    {
+        "link": {"text": "Contact", "url": "contact.html"},
+        "pageTitle": "Vue.js Tutorial: Beginner to Front-End Developer - Envato tut++",
+        "pageHeader": "Contact Page",
+        "content": "welcome to contact page",
+        "published": true
+    },
+    {
+        "link": {"text": "About", "url": "about.html"},
+        "pageTitle": "Vue.js Tutorial: Beginner to Front-End Developer - Envato tut++",
+        "pageHeader": "About Page",
+        "content": "welcome to About Page",
+        "published": false
+    }
+]
